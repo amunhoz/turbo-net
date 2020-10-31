@@ -1,6 +1,6 @@
 {
   "name": "turbo-net",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Low level TCP library",
   "main": "index.js",
   "dependencies": {
@@ -21,9 +21,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/turbo-net.git"
+    "url": "https://github.com/amunhoz/turbo-net.git"
   },
-  "author": "Mathias Buus (@mafintosh)",
+  "author": "A. Munhoz + Mathias Buus (@mafintosh)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mafintosh/turbo-net/issues"
